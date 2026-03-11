@@ -1,0 +1,402 @@
+[
+  {
+    "id": "item_1",
+    "name": "кружка",
+    "aliases": [
+      "Кружка"
+    ],
+    "utility": 1,
+    "status": 2,
+    "mobility": 0,
+    "tone": "work",
+    "tags": [
+      "symbolic"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_2",
+    "name": "шапка",
+    "aliases": [
+      "Шапка"
+    ],
+    "utility": 2,
+    "status": 0,
+    "mobility": 1,
+    "tone": "street",
+    "tags": [
+      "practical"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_3",
+    "name": "блокнот",
+    "aliases": [
+      "Блокнот"
+    ],
+    "utility": 0,
+    "status": 1,
+    "mobility": 2,
+    "tone": "official",
+    "tags": [
+      "symbolic"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_4",
+    "name": "фонарик",
+    "aliases": [
+      "Фонарик"
+    ],
+    "utility": 1,
+    "status": 2,
+    "mobility": 0,
+    "tone": "odd",
+    "tags": [
+      "practical"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_5",
+    "name": "молоток",
+    "aliases": [
+      "Молоток"
+    ],
+    "utility": 2,
+    "status": 0,
+    "mobility": 1,
+    "tone": "household",
+    "tags": [
+      "symbolic"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_6",
+    "name": "ложка",
+    "aliases": [
+      "Ложка"
+    ],
+    "utility": 0,
+    "status": 1,
+    "mobility": 2,
+    "tone": "work",
+    "tags": [
+      "practical"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_7",
+    "name": "плащ",
+    "aliases": [
+      "Плащ"
+    ],
+    "utility": 1,
+    "status": 2,
+    "mobility": 0,
+    "tone": "street",
+    "tags": [
+      "symbolic"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_8",
+    "name": "ключ",
+    "aliases": [
+      "Ключ"
+    ],
+    "utility": 2,
+    "status": 0,
+    "mobility": 1,
+    "tone": "official",
+    "tags": [
+      "practical"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_9",
+    "name": "карта",
+    "aliases": [
+      "Карта"
+    ],
+    "utility": 0,
+    "status": 1,
+    "mobility": 2,
+    "tone": "odd",
+    "tags": [
+      "symbolic"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_10",
+    "name": "монета",
+    "aliases": [
+      "Монета"
+    ],
+    "utility": 1,
+    "status": 2,
+    "mobility": 0,
+    "tone": "household",
+    "tags": [
+      "practical"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_11",
+    "name": "чемодан",
+    "aliases": [
+      "Чемодан"
+    ],
+    "utility": 2,
+    "status": 0,
+    "mobility": 1,
+    "tone": "work",
+    "tags": [
+      "symbolic"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_12",
+    "name": "ножницы",
+    "aliases": [
+      "Ножницы"
+    ],
+    "utility": 0,
+    "status": 1,
+    "mobility": 2,
+    "tone": "street",
+    "tags": [
+      "practical"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_13",
+    "name": "зонт",
+    "aliases": [
+      "Зонт"
+    ],
+    "utility": 1,
+    "status": 2,
+    "mobility": 0,
+    "tone": "official",
+    "tags": [
+      "symbolic"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_14",
+    "name": "перчатки",
+    "aliases": [
+      "Перчатки"
+    ],
+    "utility": 2,
+    "status": 0,
+    "mobility": 1,
+    "tone": "odd",
+    "tags": [
+      "practical"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_15",
+    "name": "фляга",
+    "aliases": [
+      "Фляга"
+    ],
+    "utility": 0,
+    "status": 1,
+    "mobility": 2,
+    "tone": "household",
+    "tags": [
+      "symbolic"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_16",
+    "name": "свеча",
+    "aliases": [
+      "Свеча"
+    ],
+    "utility": 1,
+    "status": 2,
+    "mobility": 0,
+    "tone": "work",
+    "tags": [
+      "practical"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_17",
+    "name": "печать",
+    "aliases": [
+      "Печать"
+    ],
+    "utility": 2,
+    "status": 0,
+    "mobility": 1,
+    "tone": "street",
+    "tags": [
+      "symbolic"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_18",
+    "name": "книга",
+    "aliases": [
+      "Книга"
+    ],
+    "utility": 0,
+    "status": 1,
+    "mobility": 2,
+    "tone": "official",
+    "tags": [
+      "practical"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_19",
+    "name": "верёвка",
+    "aliases": [
+      "Верёвка"
+    ],
+    "utility": 1,
+    "status": 2,
+    "mobility": 0,
+    "tone": "odd",
+    "tags": [
+      "symbolic"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "item_20",
+    "name": "фартук",
+    "aliases": [
+      "Фартук"
+    ],
+    "utility": 2,
+    "status": 0,
+    "mobility": 1,
+    "tone": "household",
+    "tags": [
+      "practical"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  }
+]
