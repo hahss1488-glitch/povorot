@@ -1,0 +1,402 @@
+[
+  {
+    "id": "location_1",
+    "name": "таверна",
+    "aliases": [
+      "таверна"
+    ],
+    "publicness": 1,
+    "commerce": 2,
+    "authority": 0,
+    "danger": 0,
+    "tags": [
+      "public"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_2",
+    "name": "рынок",
+    "aliases": [
+      "рынок"
+    ],
+    "publicness": 2,
+    "commerce": 0,
+    "authority": 1,
+    "danger": 1,
+    "tags": [
+      "closed"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_3",
+    "name": "портовый район",
+    "aliases": [
+      "портовый район"
+    ],
+    "publicness": 0,
+    "commerce": 1,
+    "authority": 2,
+    "danger": 1,
+    "tags": [
+      "public"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_4",
+    "name": "склад",
+    "aliases": [
+      "склад"
+    ],
+    "publicness": 1,
+    "commerce": 2,
+    "authority": 0,
+    "danger": 2,
+    "tags": [
+      "closed"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_5",
+    "name": "маленький город",
+    "aliases": [
+      "маленький город"
+    ],
+    "publicness": 2,
+    "commerce": 0,
+    "authority": 1,
+    "danger": 2,
+    "tags": [
+      "public"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_6",
+    "name": "офисный этаж",
+    "aliases": [
+      "офисный этаж"
+    ],
+    "publicness": 0,
+    "commerce": 1,
+    "authority": 2,
+    "danger": 0,
+    "tags": [
+      "closed"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_7",
+    "name": "переговорная",
+    "aliases": [
+      "переговорная"
+    ],
+    "publicness": 1,
+    "commerce": 2,
+    "authority": 0,
+    "danger": 0,
+    "tags": [
+      "public"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_8",
+    "name": "замок",
+    "aliases": [
+      "замок"
+    ],
+    "publicness": 2,
+    "commerce": 0,
+    "authority": 1,
+    "danger": 1,
+    "tags": [
+      "closed"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_9",
+    "name": "башня",
+    "aliases": [
+      "башня"
+    ],
+    "publicness": 0,
+    "commerce": 1,
+    "authority": 2,
+    "danger": 1,
+    "tags": [
+      "public"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_10",
+    "name": "площадь",
+    "aliases": [
+      "площадь"
+    ],
+    "publicness": 1,
+    "commerce": 2,
+    "authority": 0,
+    "danger": 2,
+    "tags": [
+      "closed"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_11",
+    "name": "мастерская",
+    "aliases": [
+      "мастерская"
+    ],
+    "publicness": 2,
+    "commerce": 0,
+    "authority": 1,
+    "danger": 2,
+    "tags": [
+      "public"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_12",
+    "name": "лавка",
+    "aliases": [
+      "лавка"
+    ],
+    "publicness": 0,
+    "commerce": 1,
+    "authority": 2,
+    "danger": 0,
+    "tags": [
+      "closed"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_13",
+    "name": "гостиница",
+    "aliases": [
+      "гостиница"
+    ],
+    "publicness": 1,
+    "commerce": 2,
+    "authority": 0,
+    "danger": 0,
+    "tags": [
+      "public"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_14",
+    "name": "вокзал",
+    "aliases": [
+      "вокзал"
+    ],
+    "publicness": 2,
+    "commerce": 0,
+    "authority": 1,
+    "danger": 1,
+    "tags": [
+      "closed"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_15",
+    "name": "архив",
+    "aliases": [
+      "архив"
+    ],
+    "publicness": 0,
+    "commerce": 1,
+    "authority": 2,
+    "danger": 1,
+    "tags": [
+      "public"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_16",
+    "name": "приёмная",
+    "aliases": [
+      "приемная"
+    ],
+    "publicness": 1,
+    "commerce": 2,
+    "authority": 0,
+    "danger": 2,
+    "tags": [
+      "closed"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_17",
+    "name": "двор",
+    "aliases": [
+      "двор"
+    ],
+    "publicness": 2,
+    "commerce": 0,
+    "authority": 1,
+    "danger": 2,
+    "tags": [
+      "public"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_18",
+    "name": "улица",
+    "aliases": [
+      "улица"
+    ],
+    "publicness": 0,
+    "commerce": 1,
+    "authority": 2,
+    "danger": 0,
+    "tags": [
+      "closed"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_19",
+    "name": "подвал",
+    "aliases": [
+      "подвал"
+    ],
+    "publicness": 1,
+    "commerce": 2,
+    "authority": 0,
+    "danger": 0,
+    "tags": [
+      "public"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "location_20",
+    "name": "коридор власти",
+    "aliases": [
+      "коридор власти"
+    ],
+    "publicness": 2,
+    "commerce": 0,
+    "authority": 1,
+    "danger": 1,
+    "tags": [
+      "closed"
+    ],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ]
+  }
+]
