@@ -39,14 +39,14 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env
-# поправьте DATABASE_URL на localhost, например:
-# postgresql+asyncpg://povorot:povorot@localhost:5432/povorot
 python -m app.main
 ```
 
 ## ENV
+По умолчанию используется SQLite-файл `povorot.db` в корне проекта (без внешнего PostgreSQL).
+
 - `BOT_TOKEN` — токен Telegram-бота.
-- `DATABASE_URL` — async SQLAlchemy URL.
+- `DATABASE_URL` — async SQLAlchemy URL (по умолчанию `sqlite+aiosqlite:///./povorot.db`).
 - `LOG_LEVEL` — уровень логов.
 
 ## Контент
