@@ -1,0 +1,146 @@
+[
+  {
+    "id": "lost_voice",
+    "name": "потерял голос",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "no_lie",
+    "name": "нельзя врать",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "visible_to_all",
+    "name": "тебя все замечают",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "not_believed_first",
+    "name": "тебе не верят с первого слова",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "bound_to_item",
+    "name": "ты привязан к предмету",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "no_last_resource",
+    "name": "нельзя тратить последний ресурс",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "no_double_retreat",
+    "name": "нельзя отступать дважды",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "reputation_dependent",
+    "name": "слишком зависишь от репутации",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "rush_always",
+    "name": "ты всё время спешишь",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "hide_name",
+    "name": "ты должен скрывать имя",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "item_dispute",
+    "name": "твой предмет вызывает споры",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "wrong_order_risk",
+    "name": "один неверный приказ бьёт по риску сильнее обычного",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Startup",
+      "Recovery"
+    ],
+    "tags": []
+  }
+]

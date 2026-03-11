@@ -1,0 +1,152 @@
+[
+  {
+    "id": "threat_1",
+    "name": "налёт",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "threat_2",
+    "name": "пропажа груза",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Growth"
+    ],
+    "tags": []
+  },
+  {
+    "id": "threat_3",
+    "name": "слухи",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Startup"
+    ],
+    "tags": []
+  },
+  {
+    "id": "threat_4",
+    "name": "саботаж",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "threat_5",
+    "name": "проверка",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense"
+    ],
+    "tags": []
+  },
+  {
+    "id": "threat_6",
+    "name": "конфликт команды",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Growth"
+    ],
+    "tags": []
+  },
+  {
+    "id": "threat_7",
+    "name": "утечка",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Startup",
+      "Growth",
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "threat_8",
+    "name": "дедлайн",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "threat_9",
+    "name": "кража",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense"
+    ],
+    "tags": []
+  },
+  {
+    "id": "threat_10",
+    "name": "нехватка ресурса",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Growth"
+    ],
+    "tags": []
+  },
+  {
+    "id": "threat_11",
+    "name": "исчезновение свидетеля",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Startup"
+    ],
+    "tags": []
+  },
+  {
+    "id": "threat_12",
+    "name": "внезапный гость",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "threat_13",
+    "name": "обвал продаж",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense",
+      "Growth",
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "threat_14",
+    "name": "поломка",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Growth"
+    ],
+    "tags": []
+  },
+  {
+    "id": "threat_15",
+    "name": "внутренний раскол",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Startup"
+    ],
+    "tags": []
+  },
+  {
+    "id": "threat_16",
+    "name": "подмена",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Recovery"
+    ],
+    "tags": []
+  }
+]

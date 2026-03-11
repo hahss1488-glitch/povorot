@@ -1,0 +1,2210 @@
+[
+  {
+    "id": "scene_1",
+    "blueprint": "Defense",
+    "phase": "opening",
+    "title": "Вечер начинается нервно",
+    "short_text_1": "Вечер начинается нервно. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "defense_1_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_1_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_1_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_2",
+    "blueprint": "Defense",
+    "phase": "opening",
+    "title": "На складе обнаружена недостача",
+    "short_text_1": "На складе обнаружена недостача. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "defense_2_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_2_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_2_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_3",
+    "blueprint": "Defense",
+    "phase": "opening",
+    "title": "По залу пошли плохие слухи",
+    "short_text_1": "По залу пошли плохие слухи. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "defense_3_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_3_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_3_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_4",
+    "blueprint": "Defense",
+    "phase": "pressure",
+    "title": "Удар по запасам",
+    "short_text_1": "Удар по запасам. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "defense_4_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_4_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_4_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_5",
+    "blueprint": "Defense",
+    "phase": "pressure",
+    "title": "Люди теряют доверие",
+    "short_text_1": "Люди теряют доверие. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "defense_5_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_5_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_5_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_6",
+    "blueprint": "Defense",
+    "phase": "pressure",
+    "title": "Помощник срывает задачу",
+    "short_text_1": "Помощник срывает задачу. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "defense_6_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_6_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_6_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_7",
+    "blueprint": "Defense",
+    "phase": "twist",
+    "title": "Угроза пришла изнутри",
+    "short_text_1": "Угроза пришла изнутри. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "defense_7_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_7_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_7_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_8",
+    "blueprint": "Defense",
+    "phase": "twist",
+    "title": "Твой предмет стал поводом для спора",
+    "short_text_1": "Твой предмет стал поводом для спора. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "defense_8_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_8_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_8_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_9",
+    "blueprint": "Defense",
+    "phase": "twist",
+    "title": "Ложная тревога скрыла настоящий удар",
+    "short_text_1": "Ложная тревога скрыла настоящий удар. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "defense_9_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_9_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_9_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_10",
+    "blueprint": "Defense",
+    "phase": "finale",
+    "title": "Удержать вход любой ценой",
+    "short_text_1": "Удержать вход любой ценой. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "defense_10_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_10_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_10_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_11",
+    "blueprint": "Defense",
+    "phase": "finale",
+    "title": "Спасти людей или запасы",
+    "short_text_1": "Спасти людей или запасы. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "defense_11_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_11_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_11_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_12",
+    "blueprint": "Defense",
+    "phase": "finale",
+    "title": "Взять удар на себя публично",
+    "short_text_1": "Взять удар на себя публично. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "defense_12_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_12_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "defense_12_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_13",
+    "blueprint": "Growth",
+    "phase": "opening",
+    "title": "Появился шанс резко вырасти",
+    "short_text_1": "Появился шанс резко вырасти. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "growth_13_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_13_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_13_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_14",
+    "blueprint": "Growth",
+    "phase": "opening",
+    "title": "День начался слишком удачно",
+    "short_text_1": "День начался слишком удачно. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "growth_14_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_14_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_14_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_15",
+    "blueprint": "Growth",
+    "phase": "opening",
+    "title": "Пришёл крупный заказ",
+    "short_text_1": "Пришёл крупный заказ. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "growth_15_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_15_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_15_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_16",
+    "blueprint": "Growth",
+    "phase": "pressure",
+    "title": "Рук не хватает",
+    "short_text_1": "Рук не хватает. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "growth_16_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_16_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_16_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_17",
+    "blueprint": "Growth",
+    "phase": "pressure",
+    "title": "Поставщик ломает договорённость",
+    "short_text_1": "Поставщик ломает договорённость. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "growth_17_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_17_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_17_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_18",
+    "blueprint": "Growth",
+    "phase": "pressure",
+    "title": "Рост сжирает ресурсы",
+    "short_text_1": "Рост сжирает ресурсы. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "growth_18_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_18_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_18_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_19",
+    "blueprint": "Growth",
+    "phase": "twist",
+    "title": "Лёгкие деньги пахнут проблемой",
+    "short_text_1": "Лёгкие деньги пахнут проблемой. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "growth_19_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_19_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_19_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_20",
+    "blueprint": "Growth",
+    "phase": "twist",
+    "title": "Конкурент перетягивает внимание",
+    "short_text_1": "Конкурент перетягивает внимание. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "growth_20_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_20_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_20_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_21",
+    "blueprint": "Growth",
+    "phase": "twist",
+    "title": "Команда сомневается в тебе",
+    "short_text_1": "Команда сомневается в тебе. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "growth_21_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_21_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_21_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_22",
+    "blueprint": "Growth",
+    "phase": "finale",
+    "title": "Расширяться или стабилизироваться",
+    "short_text_1": "Расширяться или стабилизироваться. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "growth_22_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_22_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_22_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_23",
+    "blueprint": "Growth",
+    "phase": "finale",
+    "title": "Рискнуть ради большой прибыли",
+    "short_text_1": "Рискнуть ради большой прибыли. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "growth_23_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_23_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_23_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_24",
+    "blueprint": "Growth",
+    "phase": "finale",
+    "title": "Спасти дело ценой темпа роста",
+    "short_text_1": "Спасти дело ценой темпа роста. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "growth_24_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_24_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "growth_24_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_25",
+    "blueprint": "Startup",
+    "phase": "opening",
+    "title": "Сегодня вечером показ",
+    "short_text_1": "Сегодня вечером показ. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "startup_25_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_25_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_25_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_26",
+    "blueprint": "Startup",
+    "phase": "opening",
+    "title": "Важный человек скоро придёт",
+    "short_text_1": "Важный человек скоро придёт. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "startup_26_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_26_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_26_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_27",
+    "blueprint": "Startup",
+    "phase": "opening",
+    "title": "У команды остался один день",
+    "short_text_1": "У команды остался один день. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "startup_27_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_27_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_27_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_28",
+    "blueprint": "Startup",
+    "phase": "pressure",
+    "title": "Версия ещё сырая",
+    "short_text_1": "Версия ещё сырая. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "startup_28_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_28_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_28_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_29",
+    "blueprint": "Startup",
+    "phase": "pressure",
+    "title": "Команда спорит о главном",
+    "short_text_1": "Команда спорит о главном. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "startup_29_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_29_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_29_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_30",
+    "blueprint": "Startup",
+    "phase": "pressure",
+    "title": "Дедлайн дышит в затылок",
+    "short_text_1": "Дедлайн дышит в затылок. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "startup_30_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_30_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_30_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_31",
+    "blueprint": "Startup",
+    "phase": "twist",
+    "title": "Ключевой человек отказывается участвовать",
+    "short_text_1": "Ключевой человек отказывается участвовать. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "startup_31_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_31_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_31_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_32",
+    "blueprint": "Startup",
+    "phase": "twist",
+    "title": "Скептик бьёт по доверию",
+    "short_text_1": "Скептик бьёт по доверию. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "startup_32_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_32_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_32_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_33",
+    "blueprint": "Startup",
+    "phase": "twist",
+    "title": "Твой предмет внезапно стал ключом к презентации",
+    "short_text_1": "Твой предмет внезапно стал ключом к презентации. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "startup_33_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_33_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_33_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_34",
+    "blueprint": "Startup",
+    "phase": "finale",
+    "title": "Честный питч",
+    "short_text_1": "Честный питч. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "startup_34_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_34_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_34_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_35",
+    "blueprint": "Startup",
+    "phase": "finale",
+    "title": "Блеф ради запуска",
+    "short_text_1": "Блеф ради запуска. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "startup_35_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_35_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_35_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_36",
+    "blueprint": "Startup",
+    "phase": "finale",
+    "title": "Пожертвовать образом ради релиза",
+    "short_text_1": "Пожертвовать образом ради релиза. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "startup_36_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_36_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "startup_36_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_37",
+    "blueprint": "Recovery",
+    "phase": "opening",
+    "title": "Пропажа замечена",
+    "short_text_1": "Пропажа замечена. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "recovery_37_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_37_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_37_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_38",
+    "blueprint": "Recovery",
+    "phase": "opening",
+    "title": "Улика лежит слишком удобно",
+    "short_text_1": "Улика лежит слишком удобно. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "recovery_38_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_38_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_38_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_39",
+    "blueprint": "Recovery",
+    "phase": "opening",
+    "title": "Время уже пошло",
+    "short_text_1": "Время уже пошло. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "recovery_39_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_39_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_39_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_40",
+    "blueprint": "Recovery",
+    "phase": "pressure",
+    "title": "Подозреваемые шумят и мешают",
+    "short_text_1": "Подозреваемые шумят и мешают. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "recovery_40_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_40_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_40_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_41",
+    "blueprint": "Recovery",
+    "phase": "pressure",
+    "title": "След уводит не туда",
+    "short_text_1": "След уводит не туда. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "recovery_41_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_41_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_41_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_42",
+    "blueprint": "Recovery",
+    "phase": "pressure",
+    "title": "Доверие к тебе сыпется",
+    "short_text_1": "Доверие к тебе сыпется. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "recovery_42_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_42_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_42_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_43",
+    "blueprint": "Recovery",
+    "phase": "twist",
+    "title": "Виновник ближе, чем казалось",
+    "short_text_1": "Виновник ближе, чем казалось. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "recovery_43_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_43_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_43_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_44",
+    "blueprint": "Recovery",
+    "phase": "twist",
+    "title": "Правда бьёт по тебе самому",
+    "short_text_1": "Правда бьёт по тебе самому. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "recovery_44_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_44_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_44_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_45",
+    "blueprint": "Recovery",
+    "phase": "twist",
+    "title": "Страх срабатывает в самый плохой момент",
+    "short_text_1": "Страх срабатывает в самый плохой момент. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "recovery_45_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_45_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_45_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_46",
+    "blueprint": "Recovery",
+    "phase": "finale",
+    "title": "Обвинить сейчас или проверить ещё раз",
+    "short_text_1": "Обвинить сейчас или проверить ещё раз. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "recovery_46_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_46_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_46_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_47",
+    "blueprint": "Recovery",
+    "phase": "finale",
+    "title": "Вернуть пропажу тихо",
+    "short_text_1": "Вернуть пропажу тихо. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "recovery_47_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_47_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_47_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  },
+  {
+    "id": "scene_48",
+    "blueprint": "Recovery",
+    "phase": "finale",
+    "title": "Раскрыть правду публично",
+    "short_text_1": "Раскрыть правду публично. Ситуация накаляется.",
+    "short_text_2": "Нужно решить, как действовать прямо сейчас.",
+    "actions": [
+      {
+        "id": "recovery_48_a1",
+        "label": "Защитить позицию",
+        "intent": "защитить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": 0,
+          "reputation_delta": 0,
+          "resource_delta": -1
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_48_a2",
+        "label": "Проверить детали",
+        "intent": "проверить",
+        "effects": {
+          "progress_delta": 1,
+          "risk_delta": -1,
+          "reputation_delta": 0,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      },
+      {
+        "id": "recovery_48_a3",
+        "label": "Импровизировать на месте",
+        "intent": "импровизировать",
+        "effects": {
+          "progress_delta": 0,
+          "risk_delta": 1,
+          "reputation_delta": 1,
+          "resource_delta": 0
+        },
+        "flags_to_add": []
+      }
+    ]
+  }
+]

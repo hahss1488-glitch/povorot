@@ -1,0 +1,282 @@
+[
+  {
+    "id": "fear_1",
+    "name": "позор",
+    "aliases": [
+      "позор"
+    ],
+    "social_fear": 1,
+    "physical_fear": 2,
+    "loss_fear": 0,
+    "weird_fear": 1,
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "fear_2",
+    "name": "толпа",
+    "aliases": [
+      "толпа"
+    ],
+    "social_fear": 2,
+    "physical_fear": 0,
+    "loss_fear": 1,
+    "weird_fear": 0,
+    "tags": [
+      "physical"
+    ]
+  },
+  {
+    "id": "fear_3",
+    "name": "темнота",
+    "aliases": [
+      "темнота"
+    ],
+    "social_fear": 0,
+    "physical_fear": 1,
+    "loss_fear": 2,
+    "weird_fear": 1,
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "fear_4",
+    "name": "птицы",
+    "aliases": [
+      "птицы"
+    ],
+    "social_fear": 1,
+    "physical_fear": 2,
+    "loss_fear": 0,
+    "weird_fear": 2,
+    "tags": [
+      "physical"
+    ]
+  },
+  {
+    "id": "fear_5",
+    "name": "животные",
+    "aliases": [
+      "животные"
+    ],
+    "social_fear": 2,
+    "physical_fear": 0,
+    "loss_fear": 1,
+    "weird_fear": 1,
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "fear_6",
+    "name": "потеря денег",
+    "aliases": [
+      "потеря денег"
+    ],
+    "social_fear": 0,
+    "physical_fear": 1,
+    "loss_fear": 2,
+    "weird_fear": 0,
+    "tags": [
+      "physical"
+    ]
+  },
+  {
+    "id": "fear_7",
+    "name": "провал",
+    "aliases": [
+      "провал"
+    ],
+    "social_fear": 1,
+    "physical_fear": 2,
+    "loss_fear": 0,
+    "weird_fear": 1,
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "fear_8",
+    "name": "предательство",
+    "aliases": [
+      "предательство"
+    ],
+    "social_fear": 2,
+    "physical_fear": 0,
+    "loss_fear": 1,
+    "weird_fear": 0,
+    "tags": [
+      "physical"
+    ]
+  },
+  {
+    "id": "fear_9",
+    "name": "шум",
+    "aliases": [
+      "шум"
+    ],
+    "social_fear": 0,
+    "physical_fear": 1,
+    "loss_fear": 2,
+    "weird_fear": 1,
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "fear_10",
+    "name": "высота",
+    "aliases": [
+      "высота"
+    ],
+    "social_fear": 1,
+    "physical_fear": 2,
+    "loss_fear": 0,
+    "weird_fear": 0,
+    "tags": [
+      "physical"
+    ]
+  },
+  {
+    "id": "fear_11",
+    "name": "теснота",
+    "aliases": [
+      "теснота"
+    ],
+    "social_fear": 2,
+    "physical_fear": 0,
+    "loss_fear": 1,
+    "weird_fear": 1,
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "fear_12",
+    "name": "одиночество",
+    "aliases": [
+      "одиночество"
+    ],
+    "social_fear": 0,
+    "physical_fear": 1,
+    "loss_fear": 2,
+    "weird_fear": 0,
+    "tags": [
+      "physical"
+    ]
+  },
+  {
+    "id": "fear_13",
+    "name": "ответственность",
+    "aliases": [
+      "ответственность"
+    ],
+    "social_fear": 1,
+    "physical_fear": 2,
+    "loss_fear": 0,
+    "weird_fear": 1,
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "fear_14",
+    "name": "огонь",
+    "aliases": [
+      "огонь"
+    ],
+    "social_fear": 2,
+    "physical_fear": 0,
+    "loss_fear": 1,
+    "weird_fear": 0,
+    "tags": [
+      "physical"
+    ]
+  },
+  {
+    "id": "fear_15",
+    "name": "вода",
+    "aliases": [
+      "вода"
+    ],
+    "social_fear": 0,
+    "physical_fear": 1,
+    "loss_fear": 2,
+    "weird_fear": 1,
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "fear_16",
+    "name": "бедность",
+    "aliases": [
+      "бедность"
+    ],
+    "social_fear": 1,
+    "physical_fear": 2,
+    "loss_fear": 0,
+    "weird_fear": 0,
+    "tags": [
+      "physical"
+    ]
+  },
+  {
+    "id": "fear_17",
+    "name": "власть",
+    "aliases": [
+      "власть"
+    ],
+    "social_fear": 2,
+    "physical_fear": 0,
+    "loss_fear": 1,
+    "weird_fear": 1,
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "fear_18",
+    "name": "неизвестность",
+    "aliases": [
+      "неизвестность"
+    ],
+    "social_fear": 0,
+    "physical_fear": 1,
+    "loss_fear": 2,
+    "weird_fear": 1,
+    "tags": [
+      "physical"
+    ]
+  },
+  {
+    "id": "fear_19",
+    "name": "боль",
+    "aliases": [
+      "боль"
+    ],
+    "social_fear": 1,
+    "physical_fear": 2,
+    "loss_fear": 0,
+    "weird_fear": 1,
+    "tags": [
+      "social"
+    ]
+  },
+  {
+    "id": "fear_20",
+    "name": "потеря контроля",
+    "aliases": [
+      "потеря контроля"
+    ],
+    "social_fear": 2,
+    "physical_fear": 0,
+    "loss_fear": 1,
+    "weird_fear": 0,
+    "tags": [
+      "physical"
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "role_1",
+    "name": "временный хозяин",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense",
+      "Defense",
+      "Startup"
+    ],
+    "tags": []
+  },
+  {
+    "id": "role_2",
+    "name": "младший управляющий",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Growth"
+    ],
+    "tags": []
+  },
+  {
+    "id": "role_3",
+    "name": "случайный наследник",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Startup"
+    ],
+    "tags": []
+  },
+  {
+    "id": "role_4",
+    "name": "заведующий складом",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "role_5",
+    "name": "посредник",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense"
+    ],
+    "tags": []
+  },
+  {
+    "id": "role_6",
+    "name": "хозяин смены",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Growth",
+      "Defense",
+      "Startup"
+    ],
+    "tags": []
+  },
+  {
+    "id": "role_7",
+    "name": "представитель совета",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Startup"
+    ],
+    "tags": []
+  },
+  {
+    "id": "role_8",
+    "name": "новый владелец",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "role_9",
+    "name": "человек не на своём месте",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense"
+    ],
+    "tags": []
+  },
+  {
+    "id": "role_10",
+    "name": "хранитель ключа",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Growth"
+    ],
+    "tags": []
+  },
+  {
+    "id": "role_11",
+    "name": "старший по залу",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Startup",
+      "Defense",
+      "Startup"
+    ],
+    "tags": []
+  },
+  {
+    "id": "role_12",
+    "name": "заместитель",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Recovery"
+    ],
+    "tags": []
+  },
+  {
+    "id": "role_13",
+    "name": "приглашённый эксперт",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Defense"
+    ],
+    "tags": []
+  },
+  {
+    "id": "role_14",
+    "name": "подозреваемый хозяин",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Growth"
+    ],
+    "tags": []
+  },
+  {
+    "id": "role_15",
+    "name": "смотритель",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Startup"
+    ],
+    "tags": []
+  },
+  {
+    "id": "role_16",
+    "name": "человек с мандатом",
+    "aliases": [],
+    "compatible_blueprints": [
+      "Recovery",
+      "Defense",
+      "Startup"
+    ],
+    "tags": []
+  }
+]
